@@ -1,0 +1,6 @@
+../Core/Src/freertos.c:71:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:85:6:MX_FREERTOS_Init	128	static
+../Core/Src/freertos.c:134:6:StartDefaultTask	16	static
+../Core/Src/freertos.c:152:6:StartBlinkGreen	16	static
+../Core/Src/freertos.c:170:6:StartBlinkYellow	16	static
+../Core/Src/freertos.c:188:6:StartBlinkRed	16	static
